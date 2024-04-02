@@ -1,0 +1,22 @@
+{"Here goes the title of your project":
+    {"Task1":
+        {"Subtask1":[10, 10],
+        "Subtask2":[8, 10]
+        },
+    "Task2":
+        {"Subtask1":[20,20],
+        "Subtask2":
+            {"Subsubtask1":[5,5],
+            "Subsubtask2":[4,5],
+            "Subsubtask3":[0,15]
+            },
+        "Subtask3":[0,4]
+        },
+    "Task3":
+        {"Subtask1":[2,5],
+        "Subtask2":[0,5],
+        "Subtask3":[0,1]
+        }
+    },
+"Current":"This is a verbal comment regarding the status of project"
+}
