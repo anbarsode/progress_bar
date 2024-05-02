@@ -69,8 +69,8 @@ rc('mathtext', default='sf')
 rc("lines", markeredgewidth=1)
 rc("lines", linewidth=2)
 
-colors = {0:'darkred', 0.2:'red', 0.4:'orange', 0.6:'gold', 0.8:'lawngreen', 1.0:'green'}
-txt_colors = {0:'k', 0.2:'k', 0.4:'k', 0.6:'k', 0.8:'k', 1.0:'w'}
+colors = {0:'crimson', 0.2:'orange', 0.4:'gold', 0.6:'cyan', 0.8:'dodgerblue', 1.0:'lawngreen'}
+txt_colors = {0:'k', 0.2:'k', 0.4:'k', 0.6:'k', 0.8:'k', 1.0:'k'}
 def get_status(ts, etc):
     return np.round(ts / etc * 5) / 5.0
 
